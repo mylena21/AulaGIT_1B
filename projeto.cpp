@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-#include <iostream>
-using namespace std;
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 void funcao_Douglas()
 {
@@ -43,3 +41,5 @@ int main(){
 >>>>>>> 7a846070e9dcca535b340e9f378427aba3e2c23e
 >>>>>>> ebc226f5448582e7e27f25a0a018873092270163
 }
+=======
+>>>>>>> 8169a7eb1eb26681a5c2f20893564d9d7cb7ce71
