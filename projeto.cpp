@@ -1,5 +1,5 @@
+
 <<<<<<< HEAD
-#include <iostream>
 <<<<<<< HEAD
 <<<<<<< HEAD
 using namespace std;
@@ -16,38 +16,33 @@ cout<<"Ai,meu Deus";
 =======
 >>>>>>> 40d6dd91524c732919e21f41dbf4264b6d0fa5dd
 usin namespace std;
-
-void funcao_Mylena(){
-    cout<<"Meu nome eh Mylena";
->>>>>>> 5ffe7a1703b6dd21684511b8e5050d30da49d06e
 =======
-using namespace std;
-<<<<<<< HEAD
-int ian()
+void funcao_Douglas()
 {
-	int i;
-	i=i+1;
+	cout<<"Meu nome eh Douglas";
 }
-=======
+>>>>>>> 977ebece1f3f362917c027b82ce319339cd33364
 
+int main()
+{
+
+  cout << "OlÃ¡ mundo!";
+  funcao_Douglas();
+=======
 void funcao_caua (){
 	cout<<"me chamo caua"
-<<<<<<< HEAD
->>>>>>> ebc226f5448582e7e27f25a0a018873092270163
-=======
->>>>>>> 94edf10a18957db0b7f911b8753117be9be1c077
->>>>>>> 5ffe7a1703b6dd21684511b8e5050d30da49d06e
 }
 >>>>>>> 5ffe7a1703b6dd21684511b8e5050d30da49d06e
 
 void funcao_Evellyn()
 {
-cout<<"Meu nome e Evellyn";
+cout<<"Meu nome e Evellyn lindona";
 
 }
 int main()
 {
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 naosei();
@@ -61,31 +56,30 @@ naosei();
 >>>>>>> 5ffe7a1703b6dd21684511b8e5050d30da49d06e
 
 =======
+=======
+>>>>>>> 977ebece1f3f362917c027b82ce319339cd33364
 	cout << "OlÃ¡ mundo!";
 	funcao_caua();
->>>>>>> ebc226f5448582e7e27f25a0a018873092270163
-<<<<<<< HEAD
-=======
->>>>>>> 94edf10a18957db0b7f911b8753117be9be1c077
->>>>>>> 5ffe7a1703b6dd21684511b8e5050d30da49d06e
 =======
 #include<iostream>
 #include<string>
 using namespace std;
->>>>>>> 7a846070e9dcca535b340e9f378427aba3e2c23e
 int main(){
 	int cod;
 	string nome;
-	cout<<"Digite código do corno:";
+	cout<<"Digite c?igo do corno:";
 	cin>>cod;
 	while(cod!=0)
 	{
 		cout<<"Digite quantas vezes foi corno e sabe:";
 		cin>>vezes;
 		if(vezes>=2)
-			cout<<"Tu tá fudido parceiro, sua mulher/homem tá com AIDs"
+			cout<<"Tu t?fudido parceiro, sua mulher/homem t?com AIDs"
 	}
-	cout << "Olá¡ mundo!";
+	cout << "Ol?mundo!";
 	return 0;
 >>>>>>> 7a846070e9dcca535b340e9f378427aba3e2c23e
+>>>>>>> ebc226f5448582e7e27f25a0a018873092270163
 }
+=======
+>>>>>>> 8169a7eb1eb26681a5c2f20893564d9d7cb7ce71
