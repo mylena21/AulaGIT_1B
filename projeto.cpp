@@ -1,8 +1,16 @@
 #include <iostream>
+using namespace std;
 
-int main(){
+void funcao_Evellyn()
+{
+cout<<"Meu nome e Evellyn";
+
+}
+int main()
+{
 
   cout << "Olá mundo!";
+  funcao_Evellyn();
 
 }
 
