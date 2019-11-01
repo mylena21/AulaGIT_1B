@@ -1,8 +1,15 @@
 #include <iostream>
+using namespace std;
 
-int main(){
+void funcao_Douglas()
+{
+	cout<<"Meu nome eh Douglas";
+}
+
+int main()
+{
 
   cout << "Olá mundo!";
-
+  funcao_Douglas();
 }
 
