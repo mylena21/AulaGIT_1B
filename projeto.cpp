@@ -14,6 +14,5 @@ int main(){
 			cout<<"Tu tá fudido parceiro, sua mulher/homem tá com AIDs"
 	}
 	cout << "Olá¡ mundo!";
-
+	return 0;
 }
-
