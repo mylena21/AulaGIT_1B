@@ -1,17 +1,30 @@
 <<<<<<< HEAD
 #include <iostream>
+<<<<<<< HEAD
 
 using namespace std;
 
 void naosei(){
 cout<<"Ai,meu Deus";
 }
+=======
+using namespace std;
+
+void funcao_caua (){
+	cout<<"me chamo caua"
+>>>>>>> ebc226f5448582e7e27f25a0a018873092270163
+}
 
 int main(){
 
+<<<<<<< HEAD
 naosei();
   cout << "Olá mundo!";
 
+=======
+	cout << "Olá mundo!";
+	funcao_caua();
+>>>>>>> ebc226f5448582e7e27f25a0a018873092270163
 =======
 #include<iostream>
 #include<string>
